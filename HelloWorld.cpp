@@ -4,7 +4,7 @@ std::string allowPause;
 
 int main() {
 	
-	std::cout << "Hello World" << std::endl;
+	std::cout << "Hello World\n";
 
 	//I'm using this to allow the program time to display
 	//"Hello World" without closing, and it's the only
